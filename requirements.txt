@@ -3,7 +3,7 @@ pandas==2.0.1
 Plotly==5.14.1
 langdetect==1.0.9
 Nltk== 3.8.1
-spacy=3.5.2
+spacy=3.5.0
 yake==0.4.8
 transformers==4.28.1
 tourch==2.0.1
