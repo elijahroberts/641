@@ -19,6 +19,7 @@ from transformers import BertTokenizer, BertModel, AutoTokenizer, AutoModelForSe
 import torch
 import torch.nn.functional as F
 import fasttext
+import altair
 
 # Initialize the model and tokenizer
 
